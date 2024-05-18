@@ -1,4 +1,4 @@
-# CS 3250 Chat App
+# Flask Chat App
 Welcome to our Chat App! This chatting application provides user interaction through chat rooms as well as connecting with friends.
 
 ## Acknowledgements
